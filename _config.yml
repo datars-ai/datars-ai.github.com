@@ -1,8 +1,12 @@
-name: Rodrigo Monteiro
-markdown: redcarpet
-pygments: true
-timezone: America/Sao_Paulo
-show_drafts: false
-relative_permalinks: true
-permalink: /blog/:title
-paginate_path: 'page:num'
+# Site settings
+title: datars.ai
+email: tars@datars.ai
+description: "Descrição aqui"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://datars.ai" # the base hostname & protocol for your site
+
+twitter_username: datars-ai
+github_username: datars-ai
+
+# Build settings
+markdown: kramdown
